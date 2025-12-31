@@ -7,6 +7,12 @@
 
 <br/>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeeJuHyeong0492&show_icons=true&theme=radical&hide_border=true"/>
+</div>
+
 <!-- About Me -->
 <h2 style="border-bottom: 1px solid #21262d; color: #d2c7ff;">
   🙌 About Me
@@ -27,8 +33,8 @@
 
 <div align="center">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-6A5ACD?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-7B68EE?style=for-the-badge&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-8E44AD?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-9B59B6?style=for-the-badge&logo=Java&logoColor=white"/>
   <br/><br/>
 
   <!-- AI / ML -->
