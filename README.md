@@ -14,24 +14,24 @@
   <br>
 
   <div align="center">
-    <!-- Languages -->
+    <-- Languages -->
     <img src="https://img.shields.io/badge/Python-6A5ACD?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/Java-7B68EE?style=for-the-badge&logo=Java&logoColor=white">
     <br/>
 
-    <!-- AI / ML -->
+    <-- AI / ML -->
     <img src="https://img.shields.io/badge/TensorFlow-9B59B6?style=for-the-badge&logo=TensorFlow&logoColor=white">
     <img src="https://img.shields.io/badge/PyTorch-8E44AD?style=for-the-badge&logo=PyTorch&logoColor=white">
     <img src="https://img.shields.io/badge/Scikit--Learn-A569BD?style=for-the-badge&logo=scikit-learn&logoColor=white">
     <br/>
 
-    <!-- Backend / Data -->
+    <-- Backend / Data -->
     <img src="https://img.shields.io/badge/Spring%20Boot-8E44AD?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-7D3C98?style=for-the-badge&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-6C3483?style=for-the-badge&logo=MongoDB&logoColor=white">
     <br/>
 
-    <!-- Tools -->
+    <-- Tools -->
     <img src="https://img.shields.io/badge/Docker-8E44AD?style=for-the-badge&logo=Docker&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-6C3483?style=for-the-badge&logo=Amazon%20AWS&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-5B2C6F?style=for-the-badge&logo=GitHub&logoColor=white">
