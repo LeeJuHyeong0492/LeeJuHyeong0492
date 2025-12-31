@@ -13,6 +13,7 @@
 ### 🔤 Languages
 ![Java](https://img.shields.io/badge/Java-9B59B6?style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-8E44AD?style=for-the-badge&logo=Python&logoColor=white)
+![Pine Script](https://img.shields.io/badge/Pine%20Script-6C3483?style=for-the-badge&logo=tradingview&logoColor=white)
 
 
 ---
