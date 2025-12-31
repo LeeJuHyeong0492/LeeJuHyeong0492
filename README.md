@@ -8,6 +8,20 @@
 
 ---
 
+## 📌 Projects
+
+### 📈 Automated Trading System
+- Event-driven **automated trading system** using real-time market data
+- Custom indicators with **Pine Script (TradingView)**
+- Serverless trading logic via **AWS Lambda (JavaScript)**
+
+### 🐶 HappyTail – Pet Skin Disease Classification
+- Lesion detection with **YOLO**, disease classification with **InceptionV3**
+- End-to-end AI pipeline using **TensorFlow / Keras**
+- Deployed as a **web-based AI service**
+
+---
+
 ## 🛠️ Tech Stacks
 
 ### 🔤 Languages
