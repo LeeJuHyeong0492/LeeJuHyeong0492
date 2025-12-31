@@ -11,7 +11,7 @@
 ## 🛠️ Tech Stacks
 
 ### 🔤 Languages
-![Java](https://img.shields.io/badge/Java-9B59B6?style=for-the-badge&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-9B59B6?style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-8E44AD?style=for-the-badge&logo=Python&logoColor=white)
 
 
@@ -19,7 +19,6 @@
 
 ### 🧠 AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-9B59B6?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-8E44AD?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-A569BD?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
@@ -33,7 +32,7 @@
 
 ### ⚙️ Tools
 ![Docker](https://img.shields.io/badge/Docker-8E44AD?style=for-the-badge&logo=Docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-6C3483?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-6C3483?style=for-the-badge&logo=amazonaws&logoColor=white&logoWidth=20)
 ![GitHub](https://img.shields.io/badge/GitHub-5B2C6F?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ---
