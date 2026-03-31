@@ -9,6 +9,7 @@
 ---
 
 ## 📌 Core Projects
+*(프로젝트 제목을 클릭하면 상세 코드와 트러블슈팅 기록을 확인할 수 있습니다!)*
 
 ### 1️⃣ [DART-Flow](https://github.com/LeeJuHyeong0492/DART-Flow) 
 **DART 비정형 공시 데이터의 정형화 및 백테스트 파이프라인 구축 (2026.02 ~ 2026.03)**
